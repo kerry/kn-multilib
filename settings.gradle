@@ -1,0 +1,10 @@
+pluginManagement({
+    repositories {
+        gradlePluginPortal()
+        maven { url "https://kotlin.bintray.com/kotlinx" }
+    }
+})
+
+include 'kn-os', 'analytics'
+project(':analytics').projectDir = new File('./kn-apps/analytics')
+enableFeaturePreview('GRADLE_METADATA')
