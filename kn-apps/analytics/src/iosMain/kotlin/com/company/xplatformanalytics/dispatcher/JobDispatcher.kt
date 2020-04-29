@@ -1,4 +1,4 @@
-package com.company.knos.dispatcher
+package com.company.xplatformanalytics.dispatcher
 
 import kotlinx.coroutines.CoroutineExceptionHandler
 import kotlinx.coroutines.CoroutineScope

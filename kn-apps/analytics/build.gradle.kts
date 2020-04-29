@@ -34,7 +34,7 @@ kotlin {
         implementation(kotlin("stdlib-common", Versions.kotlin))
         implementation(Deps.Coroutines.common)
         implementation(Deps.Serialization.common)
-        api(project(":kn-os"))
+//        api(project(":kn-os"))
     }
 
     sourceSets["androidMain"].dependencies {

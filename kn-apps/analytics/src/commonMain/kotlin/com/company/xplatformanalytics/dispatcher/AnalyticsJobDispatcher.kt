@@ -1,6 +1,5 @@
 package com.company.xplatformanalytics.dispatcher
 
-import com.company.knos.dispatcher.JobDispatcher
 import kotlinx.coroutines.CoroutineExceptionHandler
 import kotlinx.coroutines.CoroutineScope
 import kotlinx.coroutines.ExperimentalCoroutinesApi

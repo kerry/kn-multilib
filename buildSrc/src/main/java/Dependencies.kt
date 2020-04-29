@@ -3,13 +3,13 @@ object Versions {
     val target_sdk = 29
     val compile_sdk = 29
 
-    val kotlin = "1.3.61"
+    val kotlin = "1.3.71"
     val android_x = "1.1.0"
-    val android_gradle_plugin = "3.5.2"
+    val android_gradle_plugin = "3.6.2"
     val buildToolsVersion = "29.0.0"
     val junit = "4.12"
-    val coroutines = "1.3.2-native-mt-1"
-    val serialization = "0.14.0"
+    val coroutines = "1.3.5-native-mt"
+    val serialization = "0.20.0"
     val cocoapodsext = "0.6"
 
     val mockito = "2.2.0"

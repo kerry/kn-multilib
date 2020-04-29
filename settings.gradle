@@ -5,6 +5,6 @@ pluginManagement({
     }
 })
 
-include 'kn-os', 'analytics'
+include 'analytics'
 project(':analytics').projectDir = new File('./kn-apps/analytics')
 enableFeaturePreview('GRADLE_METADATA')
